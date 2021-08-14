@@ -1,6 +1,4 @@
-<div align="center>
-   <img src="https://user-images.githubusercontent.com/62840625/129437764-6424cfc4-43a3-4ebe-aac9-ebfc49cebdf4.png" width="100px">
-</div>
+
 
 # Linkedin-Learn-Clone
 <p>LinkedIn Learning Clone (App UI) created with React Native.</p>
