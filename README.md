@@ -1,7 +1,11 @@
+<div align="center">
+<img src="https://github.com/tarunsinghofficial/Linkedin-Learn-Clone/blob/main/assets/linkedin-linkedin-learning.png" width="300px">
 
+  # Linkedin Learning Clone
+</div>
 
-# Linkedin-Learn-Clone
-<p>LinkedIn Learning Clone (App UI) created with React Native.</p>
+<h3 align="center"><b>LinkedIn Learning Clone (App UI) created with React Native.</b></h3>
+<p align="center"><b>Do Star ⭐ this repo, if you like it.</b></p>
 
 # More Features Comming Soon!
 <ul>
@@ -14,7 +18,7 @@ and many more...
 
 # How to Contribute
 <ul>
-<li>Fork the the project</li>
+<li><a href="https://github.com/login?return_to=%2Ftarunsinghofficial%2FLinkedin-Learn-Clone">Fork</a> the the project</li>
 <li>Create your feature branch (git checkout -b my-new-feature)</li>
 <li>Make required changes and commit (git commit -am 'Add some feature')</li>
 <li>Push to the branch (git push origin my-new-feature)</li>
