@@ -6,6 +6,10 @@
 
 <h3 align="center"><b>LinkedIn Learning Clone (App UI) created with React Native.</b></h3>
 <p align="center"><b>Do Star ⭐ this repo, if you like it.</b></p>
+<div align="center">
+  
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/62840625/129527318-d475426b-bcf5-46d0-9840-fe668d14a687.gif)
+</div>
 
 # More Features Comming Soon!
 <ul>
